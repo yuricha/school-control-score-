@@ -1,0 +1,313 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-wguc4n');
+	src:url('fonts/icomoon.eot?#iefix-wguc4n') format('embedded-opentype'),
+	url('fonts/icomoon.woff?-wguc4n') format('woff'),
+	url('fonts/icomoon.ttf?-wguc4n') format('truetype'),
+	url('fonts/icomoon.svg?-wguc4n#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="ii-"], [class*=" ii-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.ii-paper-clip:before {
+	content: "\e001";
+}
+.ii-mail:before {
+	content: "\e002";
+}
+.ii-toggle:before {
+	content: "\e003";
+}
+.ii-bell:before {
+	content: "\e006";
+}
+.ii-ribbon:before {
+	content: "\e009";
+}
+.ii-image:before {
+	content: "\e010";
+}
+.ii-clipboard:before {
+	content: "\e013";
+}
+.ii-clock:before {
+	content: "\e014";
+}
+.ii-cog:before {
+	content: "\e023";
+}
+.ii-heart:before {
+	content: "\e024";
+}
+.ii-paper:before {
+	content: "\e034";
+}
+.ii-search:before {
+	content: "\e036";
+}
+.ii-zoom-in:before {
+	content: "\e037";
+}
+.ii-zoom-out:before {
+	content: "\e038";
+}
+.ii-reply:before {
+	content: "\e039";
+}
+.ii-circle-plus:before {
+	content: "\e040";
+}
+.ii-circle-minus:before {
+	content: "\e041";
+}
+.ii-circle-check:before {
+	content: "\e042";
+}
+.ii-circle-cross:before {
+	content: "\e043";
+}
+.ii-repeat:before {
+	content: "\e058";
+}
+.ii-folder:before {
+	content: "\e059";
+}
+.ii-cloud-upload:before {
+	content: "\e066";
+}
+.ii-cloud-download:before {
+	content: "\e067";
+}
+.ii-upload:before {
+	content: "\e068";
+}
+.ii-download:before {
+	content: "\e069";
+}
+.ii-head:before {
+	content: "\e074";
+}
+.ii-speech-bubble:before {
+	content: "\e076";
+}
+.ii-reload:before {
+	content: "\e080";
+}
+.ii-marquee-plus:before {
+	content: "\e083";
+}
+.ii-marquee-minus:before {
+	content: "\e084";
+}
+.ii-tag:before {
+	content: "\e085";
+}
+.ii-power:before {
+	content: "\e086";
+}
+.ii-star:before {
+	content: "\e093";
+}
+.ii-arrow-left:before {
+	content: "\e094";
+}
+.ii-arrow-right:before {
+	content: "\e095";
+}
+.ii-arrow-up:before {
+	content: "\e096";
+}
+.ii-arrow-down:before {
+	content: "\e097";
+}
+.ii-ban:before {
+	content: "\e107";
+}
+.ii-trash:before {
+	content: "\e109";
+}
+.ii-plus:before {
+	content: "\e114";
+}
+.ii-minus:before {
+	content: "\e115";
+}
+.ii-check:before {
+	content: "\e116";
+}
+.ii-cross:before {
+	content: "\e117";
+}
+.ii-delete:before {
+	content: "\e119";
+}
+.ii-file:before {
+	content: "\e124";
+}
+.ii-file-add:before {
+	content: "\e125";
+}
+.ii-file-subtract:before {
+	content: "\e126";
+}
+.ii-ellipsis:before {
+	content: "\e129";
+}
+.ii-times:before {
+	content: "\e600";
+}
+.ii-tick:before {
+	content: "\e601";
+}
+.ii-plus2:before {
+	content: "\e602";
+}
+.ii-minus2:before {
+	content: "\e603";
+}
+.ii-chevron-right:before {
+	content: "\e604";
+}
+.ii-chevron-left:before {
+	content: "\e605";
+}
+.ii-image2:before {
+	content: "\e61c";
+}
+.ii-star2:before {
+	content: "\e606";
+}
+.ii-backspace:before {
+	content: "\e607";
+}
+.ii-arrow-move:before {
+	content: "\e62e";
+}
+.ii-user-delete:before {
+	content: "\e608";
+}
+.ii-user-add:before {
+	content: "\e609";
+}
+.ii-group:before {
+	content: "\e60b";
+}
+.ii-trash2:before {
+	content: "\e60a";
+}
+.ii-star-outline:before {
+	content: "\e60c";
+}
+.ii-pencil:before {
+	content: "\e611";
+}
+.ii-edit:before {
+	content: "\e612";
+}
+.ii-heart2:before {
+	content: "\e613";
+}
+.ii-cloud2:before {
+	content: "\e614";
+}
+.ii-star22:before {
+	content: "\e615";
+}
+.ii-trash22:before {
+	content: "\e616";
+}
+.ii-user:before {
+	content: "\e617";
+}
+.ii-key2:before {
+	content: "\e618";
+}
+.ii-search2:before {
+	content: "\e619";
+}
+.ii-settings:before {
+	content: "\e61a";
+}
+.ii-camera:before {
+	content: "\e60d";
+}
+.ii-tag2:before {
+	content: "\e60e";
+}
+.ii-lock:before {
+	content: "\e61b";
+}
+.ii-display:before {
+	content: "\e61d";
+}
+.ii-location:before {
+	content: "\e61e";
+}
+.ii-bubble:before {
+	content: "\e61f";
+}
+.ii-stack:before {
+	content: "\e620";
+}
+.ii-news:before {
+	content: "\e621";
+}
+.ii-mail2:before {
+	content: "\e62f";
+}
+.ii-like:before {
+	content: "\e622";
+}
+.ii-photo:before {
+	content: "\e60f";
+}
+.ii-note:before {
+	content: "\e610";
+}
+.ii-params:before {
+	content: "\e623";
+}
+.ii-banknote:before {
+	content: "\e624";
+}
+.ii-data:before {
+	content: "\e625";
+}
+.ii-megaphone:before {
+	content: "\e626";
+}
+.ii-lab:before {
+	content: "\e627";
+}
+.ii-fire:before {
+	content: "\e628";
+}
+.ii-clip:before {
+	content: "\e629";
+}
+.ii-shop:before {
+	content: "\e62a";
+}
+.ii-calendar:before {
+	content: "\e62b";
+}
+.ii-wallet:before {
+	content: "\e62c";
+}
+.ii-truck:before {
+	content: "\e62d";
+}

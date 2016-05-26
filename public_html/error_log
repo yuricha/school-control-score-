@@ -1,0 +1,112 @@
+[21-May-2015 00:17:22 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:17:24 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:17:25 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:25:23 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:25:23 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:26:18 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:26:19 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:26:20 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:29:53 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:29:54 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:30:05 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:30:07 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[21-May-2015 00:30:08 America/Lima] PHP Fatal error:  Call to a member function is() on a non-object in /home/pestaloz/app/controllers/UserController.php on line 54
+[06-Jun-2015 09:13:49 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Jun-2015 15:52:23 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Jun-2015 22:51:53 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Jun-2015 22:52:58 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[12-Jun-2015 05:20:28 America/Lima] PHP Fatal error:  Call to a member function delete() on a non-object in /home/pestaloz/app/controllers/admin/ApiCommentController.php on line 95
+[12-Jun-2015 05:49:13 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 05:49:13 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 05:49:19 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 05:49:20 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 05:49:20 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 05:49:20 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 06:19:02 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[12-Jun-2015 06:19:12 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[26-Jun-2015 19:56:12 America/Lima] PHP Fatal error:  Call to a member function delete() on a non-object in /home/pestaloz/app/controllers/admin/AdminWebController.php on line 111
+[06-Jul-2015 08:55:18 America/Lima] PHP Fatal error:  Call to a member function delete() on a non-object in /home/pestaloz/app/controllers/admin/ApiCommentController.php on line 95
+[17-Jul-2015 18:32:17 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[17-Jul-2015 19:09:39 America/Lima] PHP Fatal error:  Call to a member function delete() on a non-object in /home/pestaloz/app/controllers/admin/AdminWebController.php on line 111
+[17-Jul-2015 21:46:57 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[19-Jul-2015 11:12:08 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[19-Jul-2015 11:13:12 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Aug-2015 23:18:23 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Aug-2015 23:18:43 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Aug-2015 23:19:48 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Aug-2015 23:21:48 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Aug-2015 23:22:50 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Aug-2015 23:26:44 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[27-Aug-2015 06:06:41 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[28-Aug-2015 21:11:47 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[01-Sep-2015 06:28:20 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[01-Sep-2015 06:57:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[01-Sep-2015 22:29:27 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[01-Sep-2015 22:31:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[01-Sep-2015 22:33:15 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[02-Sep-2015 14:20:07 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[02-Sep-2015 14:21:16 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[02-Sep-2015 14:21:35 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[02-Sep-2015 19:05:05 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[04-Sep-2015 05:09:20 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[07-Sep-2015 20:15:05 America/Lima] PHP Fatal error:  Call to a member function delete() on a non-object in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 684
+[10-Sep-2015 18:15:52 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 19:11:58 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 19:12:44 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 19:19:47 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 20:32:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 21:59:06 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 22:00:13 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[10-Sep-2015 22:08:34 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Sep-2015 04:35:08 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[11-Sep-2015 04:44:37 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[03-Nov-2015 17:48:45 America/Lima] PHP Fatal error:  Call to a member function isValid() on a non-object in /home/pestaloz/app/controllers/admin/ApiFileController.php on line 19
+[05-Nov-2015 19:16:27 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 19:16:56 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 19:16:57 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 19:18:05 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 19:18:05 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 19:18:07 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 19:18:11 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:02:58 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:03:48 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:03:48 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:03:52 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:03:59 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:06:20 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 20:08:22 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 22:41:40 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[05-Nov-2015 22:55:04 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:47:50 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:48:04 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:48:09 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:48:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:48:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:49:54 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:50:33 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[20-Nov-2015 11:51:36 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 05:21:39 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 05:22:44 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 05:30:57 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 05:38:44 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 05:59:30 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 06:02:31 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 06:03:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:56:23 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:56:58 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:57:07 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:57:44 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:57:52 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:58:09 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:59:21 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:59:27 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 09:59:37 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:00:06 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:01:10 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:01:18 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:01:19 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:01:55 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:03:30 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:03:54 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:04:01 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175
+[23-Nov-2015 10:04:19 America/Lima] PHP Fatal error:  Undefined class constant 'STATUS_ERROR_ALUMNO' in /home/pestaloz/app/controllers/admin/AdminRatingController.php on line 175

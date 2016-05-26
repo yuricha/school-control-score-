@@ -1,0 +1,15 @@
+body { background:#fff; font-family: 'Roboto Condensed', sans-serif; font-weight: 300; font-size: 14px; line-height: 1.6em; color: #444; padding: 0; margin: 0; }
+
+#header{background: #2D3969;}
+.bg_login{border: 1px solid #CDCDCF;border-radius:5px;font-size: 16px;background: rgba(224, 224, 224, 0.6) ;color: #2D3969;padding: 40px 0 25px;text-align: center;margin:30px 0;}
+#content{background:url("#") center top no-repeat; background-size: 100%;}
+.bg_login fieldset,.bg_login input{border: 0 none;margin: 0;outline: medium none;padding: 0;}
+.bg_login label{font-weight: 500;float: left;width: 30%;padding-top: 9px;text-align: left;padding-left: 10px;color: #484848;}
+.bg_login input {color: #484848;font-size: 15px; padding: 2px 10px; width: 60% !important; height: 36px; }
+.bg_login img{max-width: 100%;}
+.logintitle{ font-size: 20px; margin-top: 40px;}
+.reg{background: #ffffff;border-radius: 5px;margin: 15px auto;width: 300px;}
+#formlogin{text-align: center;}
+.imageslogin{margin-top: 70px;}
+.button-red{background: #428bca; color: #ffffff; background-image: linear-gradient(to bottom,  #3700FF, #013FB0); margin: 15px 0;border: 0; text-shadow: none;font-size: 14px; padding: 5px 16px; }
+.button-red:hover, .button-red:focus{ background: #000c5b; color: #ffffff !important;}

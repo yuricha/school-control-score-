@@ -1,0 +1,25 @@
+SetEnvIfNoCase Authorization "Basic ([a-z0-9=]+)" REMOTE_AUTHORIZATION=$1
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+
+    RewriteEngine On
+
+    # Redirect Trailing Slashes...
+    RewriteRule ^(.*)/$ /$1 [L,R=301]
+
+    # Handle Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+	#RewriteBase /cencosud/public/ # Add this line
+    #RewriteRule ^ /index.php [L]
+    RewriteRule ^ /pestalozzi6/public_html/index.php [L]
+	
+	#RewriteEngine On
+    #RewriteRule ^(.*)$ public/$1 [L]
+	
+
+	
+</IfModule>
+
